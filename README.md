@@ -1,3 +1,3 @@
 # proyecto-git
 
-Curso Git y Linux
+Curso de Git y Linux
